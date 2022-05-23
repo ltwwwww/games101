@@ -1,3 +1,4 @@
 *.pdf
 *.exe
 main.exe.dSYM
+.gitignore
