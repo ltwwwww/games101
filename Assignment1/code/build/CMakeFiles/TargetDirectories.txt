@@ -1,0 +1,3 @@
+/Users/litengwu/ltw/cpp_multiple/games101/Assignment1/code/build/CMakeFiles/Rasterizer.dir
+/Users/litengwu/ltw/cpp_multiple/games101/Assignment1/code/build/CMakeFiles/edit_cache.dir
+/Users/litengwu/ltw/cpp_multiple/games101/Assignment1/code/build/CMakeFiles/rebuild_cache.dir
